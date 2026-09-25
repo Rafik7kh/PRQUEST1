@@ -3,7 +3,7 @@
 From inside the folder that contains `src/`:
 
 ```
-cd src
+cd PRQuest/src
 javac *.java
 java Main
 ```
